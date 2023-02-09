@@ -1,4 +1,4 @@
-module github.com/casbin/ent-adapter
+module github.com/bon10/ent-adapter
 
 go 1.14
 
